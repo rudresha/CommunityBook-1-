@@ -5,7 +5,7 @@ android {
     buildToolsVersion '25.0.0'
 
     defaultConfig {
-        applicationId "info.androidhive.recyclerview"
+        applicationId "communitybook.android.project"
         minSdkVersion 15
         targetSdkVersion 23
         versionCode 1
