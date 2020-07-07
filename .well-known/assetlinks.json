@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.bannerhealth.BannerHealthMobileApp",
+    "sha256_cert_fingerprints":
+    ["AB:F7:13:05:90:23:46:DB:98:CA:03:13:0C:59:75:7B:50:1A:47:64:F4:09:13:65:7F:30:08:88:FA:E9:EC:B5"]
+  }
+}]
